@@ -14,8 +14,8 @@
 
 | Activity | Period | Description |
 |----------|--------|-------------|
-| **ELICE  X KOFAC** | 2024.09 ~ 2024.12 | Mentor Team Lead in the "청소년 디지털 문제해결 프로젝트" |
-| **Fast Campus x Samsung Electronics** | 2024.04 ~ 2024.08 | Taught Python basics, data analysis, and SQL to non-CS employees |
+| **ELICE  X KOFAC** | 2024.09 ~ 2024.12 | Team Lead and Mentor in the "청소년 디지털 문제해결 프로젝트" |
+| **Fast Campus x Samsung Electronics** | 2024.04 ~ 2024.08 | Taught Python fundamentals, data analysis, and SQL to employees |
 
 
 

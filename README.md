@@ -3,11 +3,11 @@
 
 | Project | Period |
 |--------|--------|
-| [**CC Platform**](https://github.com/CCCloudPlatform) | 2024.08 ~ now |
 | [**Bareuni**](https://github.com/seheonnn/bareuni-BEv2) | 2024.08 ~ now | 
 | [**Spon-us**](https://github.com/spon-us/SponUs-BE) | 2024.01 ~ 2024.09 |
 | [**Sumunity**](https://github.com/smu-nity/SMUNITY-API) | 2024.01 ~ 2024.03 | 
-
+| [**Waither**]([https://github.com/CCCloudPlatform](https://github.com/WaitherTeam/Waither-BE) | 2024.01 ~ 2024.12 |
+| [**CC Platform**](https://github.com/CCCloudPlatform) | 2024.08 ~ now |
 ---
 
 ## 🧑‍🏫 Community Activities
